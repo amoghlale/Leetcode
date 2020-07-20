@@ -1,0 +1,10 @@
+Given an List of n strings, write a function to remove duplicate anagrams and return a list of size m strings.
+
+Notes:
+1 <= n <= 1000
+m <= n
+
+Example 1:
+Input: ["cat", "pat", "tap", "frame", "apt"]
+Output: ['cat', 'pat', 'frame']
+Explanation: "tap" and "apt" are anagrams of "pat". Hence, they should not be present in the resultant output list
