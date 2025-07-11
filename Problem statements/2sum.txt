@@ -1,0 +1,11 @@
+Given a list and given_number, find pairs of numbers from the list whose sum equals the given number value.
+
+Example 1:
+Input: [-1, 0, -2, 2, 3, 4, 5, -1, 1, -5]
+given_number: 0
+Output: [[-1, 1], [-2, 2], [-5, 5]]
+
+Example 2:
+Input: [-1, 0, -2, 2, 3, 4, 5, -1, 1, -5]
+given_number: 5
+Output: [[0, 5], [1, 4], [2, 3]]
